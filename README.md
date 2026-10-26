@@ -106,12 +106,12 @@ Median prices are used to describe typical asking-price levels while reducing th
 
 | File | Description |
 |---|---|
-| `Abuja Housing Prices Analysis.xlsm` | Main interactive Excel workbook |
-| `AH Landing Page.png` | Project landing page screenshot |
-| `AH Rent Dashboard 1.png` | Rental Dashboard 1 screenshot |
-| `AH Rent Dashboard 2.png` | Rental Dashboard 2 screenshot |
-| `AH Sale Dashboard 1.png` | Sale Dashboard 1 screenshot |
-| `AH Sale Dashboard 2.png` | Sale Dashboard 2 screenshot |
+| [Abuja Housing Prices Analysis.xlsm](./Abuja%20Housing%20Prices%20Analysis.xlsm) | Download the interactive Excel workbook |
+| [AH Landing Page.png](./AH%20Landing%20Page.png) | View the project landing page |
+| [AH Rent Dashboard 1.png](./AH%20Rent%20Dashboard%201.png) | View Rental Dashboard 1 |
+| [AH Rent Dashboard 2.png](./AH%20Rent%20Dashboard%202.png) | View Rental Dashboard 2 |
+| [AH Sale Dashboard 1.png](./AH%20Sale%20Dashboard%201.png) | View Sale Dashboard 1 |
+| [AH Sale Dashboard 2.png](./AH%20Sale%20Dashboard%202.png) | View Sale Dashboard 2 |
 
 ## Access the Workbook
 
